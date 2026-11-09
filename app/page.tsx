@@ -42,7 +42,7 @@ export default function Home() {
         >
           <div className="order-2 flex flex-col items-center justify-center px-2 py-10 text-center sm:px-4 lg:order-1 lg:px-0">
             <p className="mb-5 text-[0.7rem] font-semibold uppercase tracking-[0.45em] text-[#82925a] sm:mb-7 sm:text-xs">
-              Welcome, I am
+              HELLO, I AM
             </p>
             <h1
               className="whitespace-nowrap font-serif text-[clamp(3.75rem,10vw,8rem)] font-bold leading-[0.88] tracking-[-0.075em] text-[#174c3e]"
